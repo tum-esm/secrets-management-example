@@ -1,5 +1,5 @@
-API_USER_ID = "some-account-from-esm"
-API_SECRET_KEY = "abcde12345"
+API_USER_ID = "some-new-account-from-esm"
+API_SECRET_KEY = "new-super-secret-password"
 
 print(
     f'Connecting to API using USER_ID "{API_USER_ID}" '
